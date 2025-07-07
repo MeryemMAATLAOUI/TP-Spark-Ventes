@@ -1,0 +1,6 @@
+date ville produit prix
+2023-01-05 Casablanca PC 4000
+2023-02-12 Rabat Smartphone 2500
+2024-03-10 Marrakech Imprimante 1200
+2023-05-20 Casablanca Écran 1500
+2024-01-01 Rabat Clavier 400
